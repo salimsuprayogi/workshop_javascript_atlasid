@@ -1,0 +1,36 @@
+Sabtu, 11 July 2020 [ 09:00-11:30]
+
+Atlas Id Tech
+
+Basic Javascript For Automation
+
+Teacher Aditya Setyadi [ SDET Lead DANA Indonesia]
+Co-Teacher Fathurozaq Budi Setyawan [ SDET Lead DANA Indonesia ]
+Co-Teacher Fadly Mahendra [ QE Manager Ralali.com ]
+Co-Teacher Genta Wibowo [ Sr Manager Test Engineer Bukalapak ]
+
+// Author: Salim Suprayogi
+----------------
+
+outline : 
+1. javascrript
+-Manipulasi web statis
+-just intime compiler language
+-compiler dan runing dilakukan bersamaan
+2.nodejs
+-bisa memindahkan mesin di browser di software lain
+
+#tipe primitif
+3. tipe data
+-tipe data string [ diapit double quote, bisa masukin karakter spesial]
+4. tipe number
+5. tipe bolean
+-collection [] : punya sekumpulan value dijadikan dalam satu kelompok
+6. Objek
+-tidak perlu class
+7. Dekalarasi variabel
+-var, lef,const,scope [ identifier ]
+-const : dekalarikan sekali
+-scope : statement 
+8. Operator
+9. Function
